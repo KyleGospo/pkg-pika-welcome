@@ -37,7 +37,7 @@ cargo build -r
 %{_sysconfdir}/xdg/autostart/%{name}-autostart.desktop
 %{_exec_prefix}/lib/pika/*
 %{_datadir}/applications/com.github.pikaos-linux.pikawelcome.desktop
-%{_datadir}glib-2.0/schemas/com.github.pikaos-linux.pikawelcome.gschema.xml
+%{_datadir}/glib-2.0/schemas/com.github.pikaos-linux.pikawelcome.gschema.xml
 %{_datadir}/icons/hicolor/64x64/apps/pika-*
 %{_datadir}/icons/hicolor/scalable/apps/com.github.pikaos-linux.pikawelcome.svg
 %{_datadir}/pika-welcome/config/*.json
